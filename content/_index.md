@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Frequency Agile Solar Radiotelescope (FASR)** is the next generation radio interferometer array dedicated to solar and space weather research.
+        The **Frequency Agile Solar Radiotelescope (FASR)** is a next generation radio interferometer array dedicated to solar and space weather research.
   
   - block: collection
     content:
