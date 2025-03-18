@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Frequency Agile Solar Radiotelescope (FASR)** is the next generation radio interferometer array dedicated to solar and space weather research.
   
   - block: collection
     content:
