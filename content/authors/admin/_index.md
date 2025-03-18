@@ -10,7 +10,7 @@ last_name: Chen
 superuser: true
 
 # Role/position
-role: Professor of Physics
+role: Professor
 
 # Organizations/Affiliations
 organizations:

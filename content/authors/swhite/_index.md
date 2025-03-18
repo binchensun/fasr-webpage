@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Dale Gary
+title: Stephen White
 
 # Full name (for SEO)
-first_name: Dale
-last_name: Gary
+first_name: Stephen
+last_name: White
 
 # Username (this should match the folder name)
 authors:
-  - dgary
+  - swhite
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Distinguished Professor
+role: Astronomer
 
 # Organizations/Affiliations
 organizations:
-  - name: New Jersey Institute of Technology
+  - name: National Radio Astronomy Observatory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Astrogeophysics
+    - course: PhD in Astrophysics
       institution: University of Colorado, Boulder
-      year: 1982
+      year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dale.e.gary@njit.edu'
+    link: 'mailto:tbastian@nrao.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +58,4 @@ user_groups:
   - Researchers
 ---
 
-Dale Gary is a Distinguished Professor of Physics at the New Jersey Institute of Technology
+Dr. Tim Bastian is an Astronomer at the National Radio Astronomy Observatory.
