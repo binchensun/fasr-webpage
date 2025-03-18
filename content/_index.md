@@ -8,10 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The Frequency Agile Solar Radiotelescope
       image:
-        filename: welcome.jpg
+        filename: FASR_illustration_sml.jpg
       text: |
         <br>
         
@@ -58,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: FASR Publications
       text: ""
       count: 5
       filters:
