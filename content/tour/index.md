@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Explore
 date: 2022-10-24
 
 type: landing
@@ -8,32 +8,32 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: FASR Science Goals
+        content: Explore revolutionary science FASR will enable
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: fasr_science.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Technology Developments
+        content: See what enabling technologies FASR will employ
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: FASR_illustration_sml.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Latest News
+        content: See what happens to the FASR project lately
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: FASR_illustration_birdeye.jpg
             filters:
               brightness: 0.5
           position: center
