@@ -24,9 +24,11 @@ sections:
       title:
       subtitle: ''
       text:
-        <p>The **Frequency Agile Solar Radiotelescope (FASR)** is a next generation radio interferometer array dedicated to solar and space weather research. FASR will build upon the technology that enabled the [Expanded Owens Valley Solar Array](https://ovsa.njit.edu/), but with 10 times more antennas, an order of magnitude wider bandwidth, and greatly enhanced resolution, it will bring the transformative technique of "ultrawide-band radio video camera" to solar and heliospheric studies.</p> 
+        <p>The <b>Frequency Agile Solar Radiotelescope (FASR)</b> is a next generation radio interferometer array dedicated to solar and space weather research. FASR will build upon the technology that enabled the [Expanded Owens Valley Solar Array](https://ovsa.njit.edu/), but with 10 times more antennas, an order of magnitude wider bandwidth, and greatly enhanced resolution, it will bring the transformative technique of "ultrawide-band radio video camera" to solar and heliospheric studies.</p> 
 
-        <p>FASR is an instrument designed and optimized for high-fidelity radio spectral analysis over the extreme range of flux density and timescales presented by the Sun. The science FASR addresses is as broad as solar physics itself, but FASR’s science goals cannot be adequately addressed by non-solar-dedicated, general-purpose radio facilities. The major advances offered by FASR over previous generations of solar radio instruments are its unique combination of ultra-wide frequency coverage, high spectral and time resolution, and superior image quality. FASR measures the polarized brightness temperature spectrum along every line of sight to the Sun as a function of time. It would operate from 0.2 to 20 GHz. Radiation over this vast wavelength range probes the solar atmosphere from the middle chromosphere into the middle corona - the dynamic, magnetoactive, plasma environment in which a wealth of astrophysical and space weather processes occurs. By virtue of its broad frequency coverage, FASR will image the entire solar atmosphere multiple times per second from the chromosphere through the corona, while retaining the capability to image a selected frequency range with as little as 20 ms time resolution. FASR is sensitive to temperatures from < 10,000 K to > 30 MK, and nonthermal particle energies from ∼ 20 keV to > 1 MeV. Moreover, FASR’s panoramic view allows the solar atmosphere and the physical phenomena therein, both thermal and nonthermal, to be studied as a coupled system.</p>
+        <p>The science FASR addresses is as broad as solar physics itself, but FASR’s science goals cannot be adequately addressed by non-solar-dedicated, general-purpose radio facilities. FASR measures the polarized brightness temperature spectrum along every line of sight to the Sun as a function of time. It would operate from 0.2 to 20 GHz. Radiation over this vast wavelength range probes the solar atmosphere from the middle chromosphere into the middle corona - the dynamic, magnetoactive, plasma environment in which a wealth of astrophysical and space weather processes occurs.</p> 
+        
+        <p>By virtue of its broad frequency coverage, FASR will image the entire solar atmosphere multiple times per second from the chromosphere through the corona, while retaining the capability to image a selected frequency range with as little as 20 ms time resolution. FASR is sensitive to temperatures from < 10,000 K to > 30 MK, and nonthermal particle energies from ∼ 20 keV to > 1 MeV. Moreover, FASR’s panoramic view allows the solar atmosphere and the physical phenomena therein, both thermal and nonthermal, to be studied as a coupled system.</p>
 
         <h3>Science Objectives</h3>
 
@@ -62,6 +64,7 @@ sections:
         folders:
           - publication
         publication_type: '0'
+        featured: true
     design:
       view: citation
       columns: '1'
