@@ -1,33 +1,32 @@
 ---
 # Display name
-title: Pascal Saint-Hilaire
+title: Peijin Zhang
 
 # Full name (for SEO)
-first_name: Pascal
-last_name: Saint-Hilaire
+first_name: Peijin
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - psh
+  - pzhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Physicist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Space Sciences Lab, UC Berkeley
+  - name: New Jersey Institute of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Solar Physics
-  - X-ray and gamma-ray astronomy
   - Radio Astronomy
+  - Radio Instrumentation
 
 education:
   courses:
@@ -42,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:shilaire@berkeley.edu'
+    link: 'peijin.zhang@njit.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team Members
+  - Postdoctoral Fellows
 ---
 
-Dr. Pascal Saint-Hilaire is a Research Physicist at the Space Sciences Laboratory, University of California at Berkeley.
+Dr. Peijin Zhang is an NASA Living-with-a-Star Jack Eddy Postdoctoral Fellow at the University Corporations for Atmospheric Research, hosted by the New Jersey Institute of Technology.

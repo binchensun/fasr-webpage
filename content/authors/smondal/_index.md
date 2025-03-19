@@ -54,7 +54,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc
+  - Postdoctoral Fellows
 ---
 
 Dr. Surajit Mondal is a Postdoctoral Researcher at the New Jersey Institute of Technology.
