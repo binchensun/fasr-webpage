@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Tim Bastian
+title: Angelos Vourlidas
 
 # Full name (for SEO)
-first_name: Tim
-last_name: Bastian
+first_name: Angelos
+last_name: Vourlidas
 
 # Username (this should match the folder name)
 authors:
-  - tbastian
+  - avourlidas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Astronomer
+role: Astrophysicist
 
 # Organizations/Affiliations
 organizations:
-  - name: National Radio Astronomy Observatory
+  - name: Johns Hopkins University Applied Physics Laboratory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Astrophysics
-      institution: University of Colorado, Boulder
-      year: 1987
+  #  - course: PhD in Astrophysics
+  #    institution: University of Colorado, Boulder
+  #    year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tbastian@nrao.edu'
+    link: 'Angelos.Vourlidas@jhuapl.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +58,4 @@ user_groups:
   - Team Member
 ---
 
-Dr. Tim Bastian is an Astronomer at the National Radio Astronomy Observatory.
+Dr. Angelos Vourlidas is an Astrophysicist at the Johns Hopkins University Applied Physics Laboratory.

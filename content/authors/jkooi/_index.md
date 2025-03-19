@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Tim Bastian
+title: Jason Kooi
 
 # Full name (for SEO)
-first_name: Tim
-last_name: Bastian
+first_name: Jason
+last_name: Kooi
 
 # Username (this should match the folder name)
 authors:
-  - tbastian
+  - jkooi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Astronomer
+role: Research Physicist
 
 # Organizations/Affiliations
 organizations:
-  - name: National Radio Astronomy Observatory
+  - name: Naval Research Laboratory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Solar Physics
   - Radio Astronomy
   - Radio Instrumentation
 
 education:
   courses:
-    - course: PhD in Astrophysics
-      institution: University of Colorado, Boulder
-      year: 1987
+  #  - course: PhD in Astrophysics
+  #    institution: University of Colorado, Boulder
+  #    year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tbastian@nrao.edu'
+    link: 'jason.kooi@nrl.navy.mil'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +57,4 @@ user_groups:
   - Team Member
 ---
 
-Dr. Tim Bastian is an Astronomer at the National Radio Astronomy Observatory.
+Dr. Jason Kooi is a Research Physicist at the Naval Research Laboratory.

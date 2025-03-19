@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Team Member
 ---
 
 Dale Gary is a Distinguished Professor of Physics at the New Jersey Institute of Technology

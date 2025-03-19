@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Tim Bastian
+title: Pascal Saint-Hilaire
 
 # Full name (for SEO)
-first_name: Tim
-last_name: Bastian
+first_name: Pascal
+last_name: Saint-Hilaire
 
 # Username (this should match the folder name)
 authors:
-  - tbastian
+  - psh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Astronomer
+role: Research Physicist
 
 # Organizations/Affiliations
 organizations:
-  - name: National Radio Astronomy Observatory
+  - name: Space Sciences Lab, UC Berkeley
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,14 +26,14 @@ bio:
 
 interests:
   - Solar Physics
+  - X-ray and gamma-ray astronomy
   - Radio Astronomy
-  - Radio Instrumentation
 
 education:
   courses:
-    - course: PhD in Astrophysics
-      institution: University of Colorado, Boulder
-      year: 1987
+  #  - course: PhD in Astrophysics
+  #    institution: University of Colorado, Boulder
+  #    year: 1987
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tbastian@nrao.edu'
+    link: 'mailto:shilaire@berkeley.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +58,4 @@ user_groups:
   - Team Member
 ---
 
-Dr. Tim Bastian is an Astronomer at the National Radio Astronomy Observatory.
+Dr. Pascal Saint-Hilaire is a Research Physicist at the Space Sciences Laboratory, University of California at Berkeley.
