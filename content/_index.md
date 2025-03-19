@@ -59,11 +59,11 @@ sections:
     content:
       title: FASR Decadal White Papers
       text: ""
-      count: 10
+      count: 13
       filters:
         folders:
           - publication
-        publication_type: '0'
+        publication_type: 'white paper'
         featured: true
     design:
       view: citation

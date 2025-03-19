@@ -45,7 +45,7 @@ image:
 projects: []
 publishDate: '2025-03-19T21:07:31.641790Z'
 publication_types:
-- '0'
+- 'white paper'
 abstract: ''
 publication: ''
 ---

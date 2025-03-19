@@ -73,7 +73,7 @@ image:
 projects: []
 publishDate: '2025-03-19T21:07:32.292064Z'
 publication_types:
-- '1'
+- 'white paper'
 abstract: ''
 publication: '*Bulletin of the American Astronomical Society*'
 doi: 10.3847/25c2cfeb.aa2ad1d0
